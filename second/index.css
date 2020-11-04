@@ -1,0 +1,77 @@
+.body {
+    margin: 0;
+    padding: 25px;
+    height: 100vh;
+}
+
+.top {
+    display: inline-block;
+    border-color: black;
+    border-style: solid;
+    border-width: .3em;
+    height: 175px;
+    width: 100%;
+    box-sizing: border-box ;
+}
+.purple {
+    display: inline-block;
+    height: 70px;
+    width: 40px;
+    background-color: #8a2be2;
+    margin: 10px;
+    margin-top: 90px;
+}
+.green {
+    display: inline-block;
+    height: 100px;
+    width: 300px;
+    background-color: #228b21;
+    margin: 10px;
+}
+.circle {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background-color: #87ceeb;
+    margin: 10px;
+}
+.middle {
+    display: inline-block;
+    border-color: black;
+    border-style: dotted;
+    border-width: .3em;
+    height: 200px;
+    width: 100%;
+    margin-top: 40px;
+}
+.post-it-note {
+    display: inline-block;
+    height: 150px;
+    width: 95%;
+    margin: 20px;
+    background-color: #fefacd;
+    box-shadow: 10px 10px 5px #404040;
+}
+.bottom {
+    display: inline-block;
+    border-color: #e7e7e7;
+    border-style: solid;
+    border-width: 2px;
+    height: 300px;
+    width: 700px;
+    margin-left: 370px;
+    margin-top: 15px;
+    margin-right: 50px;
+    margin-bottom: 25px;
+    box-shadow: 3px 3px 3px rgb(203,203,203);
+}
+.calling-card {
+    text-align: center;
+    letter-spacing: 10px;
+    color: #040886;
+    font-size: 2em;
+    padding-top: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
