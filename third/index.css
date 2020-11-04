@@ -1,0 +1,45 @@
+.white {
+height: 100%;
+width: 100%; 
+}
+.gray {
+    width: auto;
+    height: 100px;
+    background-color: #d8d8d8;
+    padding-top:20px;
+}
+
+.text {
+    height: 150px;
+    text-align: left;
+    padding: 20px;
+    padding-top: 80px;
+}
+
+.blue {
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    background-color: #4b90e2;
+    margin-left: 20px;
+}
+.blue-2 {
+    width: auto;
+    height: 100px;
+    background-color: #4b90e2;
+}
+.light-blue {
+    width: auto;
+    height: 100px;
+    background-color:#4fe3c1;
+}
+.green {
+    width: auto;
+    height: 100px;
+    background-color:  #b8e985;
+}
+.yellow {
+    width: auto;
+    height: 100px;
+    background-color: #f7e71b;
+}
